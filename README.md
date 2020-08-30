@@ -2,8 +2,6 @@
 2d game in C# and Unity
 
 The game was made as a final project for programming classes at the university.
-#
-The game was writen in C# and use Unity.
 
 ## Dokumentacja
 
