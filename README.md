@@ -6,7 +6,7 @@ The game was made as a final project for programming classes at the university.
 ## Dokumentacja_aog
 
 That folder contains documentation in Polish.
-All details is there.
+All details are there.
 
 #### I'm still working on this game.
 ### Thanks for reading ^^
