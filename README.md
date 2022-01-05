@@ -1,4 +1,4 @@
-# Adventure_Of_Giraffe
+# Adventure_Of_A_Giraffe
 2d game in C# and Unity
 
 The game was made as a final project for programming classes at the university.
